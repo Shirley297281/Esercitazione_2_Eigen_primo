@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=/Users/shylazzaretti/Qt/Tools/CMake/CMake.app/Contents/bin/cmake;-Dcan_fetch=YES;-P;/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/Eigen-prefix/tmp/Eigen-gitupdate.cmake
+command (disconnected)=/Users/shylazzaretti/Qt/Tools/CMake/CMake.app/Contents/bin/cmake;-Dcan_fetch=NO;-P;/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/Eigen-prefix/tmp/Eigen-gitupdate.cmake
+work_dir=/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/Main_Source/eigen3

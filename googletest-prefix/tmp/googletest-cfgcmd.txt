@@ -1,0 +1,1 @@
+cmd='/Users/shylazzaretti/Qt/Tools/CMake/CMake.app/Contents/bin/cmake;-DCMAKE_C_COMPILER=/usr/bin/clang;-DCMAKE_CXX_COMPILER=/usr/bin/clang++;-DCMAKE_BUILD_TYPE=Release;-DCMAKE_INSTALL_PREFIX=/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/Main_Install/googletest;-GUnix Makefiles;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/Users/shylazzaretti/Desktop/repository/Esercitazione_2_Eigen/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}
